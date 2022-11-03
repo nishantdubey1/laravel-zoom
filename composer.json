@@ -1,5 +1,5 @@
 {
-    "name": "nishant/laravel-zoom",
+    "name": "nishantdubey1/laravel-zoom",
     "description": "Permission handling for Laravel 6.0 and up",
     "license": "MIT",
     "authors": [
@@ -17,7 +17,7 @@
 		},
     "autoload": {
         "psr-4": {
-            "Nishant\\Zoom\\": "src"
+            "NishantDubey1\\Zoom\\": "src"
         },
         "files": [
             "src/helpers.php"
@@ -26,7 +26,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Nishant\\Zoom\\LaravelZoomServiceProvider"
+                "NishantDubey1\\Zoom\\LaravelZoomServiceProvider"
             ]
         }
 	},
